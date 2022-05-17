@@ -10,7 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from KENYA.
 
+- 👋 Hi, I’m @Vichiuri ( Victor Chiuri)
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 💞️ I’m also the DevOps engineer at my current company.
 
 - :seedling: Exploring flutter and Dart for mobile application Development.
 
