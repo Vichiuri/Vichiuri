@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m @Vichiuri ( Victor Chiuri)
 
-- :telescope: I’m working as a Software Development manager and contributing to frontend and backend for building web applications.(Django,React.Js, Postgresql, Javascript, Redux.Js and Python)
+- :telescope: I’m currently working as a Software Development manager and also contributing to both frontend and backend development.(Django,React.Js, Postgresql, Javascript, Redux.Js and Python).
 
 - 💞️ I’m also the DevOps engineer at my current company.
 
