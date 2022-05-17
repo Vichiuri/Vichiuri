@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Vichiuri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Vichiuri/Vichiuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👋 Hi, I’m @Vichiuri ( Victor Chiuri)
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Development manager and contributing to frontend and backend for building web applications.(Django,React.Js, Postgresql, Javascript, Redux.Js and Python)
 
 - 💞️ I’m also the DevOps engineer at my current company.
 
